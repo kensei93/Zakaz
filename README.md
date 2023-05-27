@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/m6oruy249xks9pkr?svg=true)](https://ci.appveyor.com/project/IrinaVasilenko88/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/p5hc9xuajojlo225?svg=true)](https://ci.appveyor.com/project/kensei93/zakaz)
 
 # Обучение в Нетологии.
 
